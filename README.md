@@ -3,4 +3,4 @@ Cloud-based track analysis infrastructure, for friction-free startup of new anal
 
 
 Here's an example of an attractive "dashboard" approach to vessel states:
-![Dashboard interface](https://github.com/debrief/debrief/wiki/images/WelcomeScreen.png)
+![Dashboard interface](https://github.com/debrief/debrief/wiki/images/VoyagePlanning.png)
